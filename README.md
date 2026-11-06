@@ -44,6 +44,8 @@
 
 完整清单见 [ARCHIVE_MANIFEST.md](ARCHIVE_MANIFEST.md)：16 个仓库的文件数、体积、提交数、历史版本与迭代记录。
 
+迭代与校验记录：[ITERATION_REPORT.md](ITERATION_REPORT.md) · [VERIFY_REPORT.md](VERIFY_REPORT.md)
+
 ---
 
 写代码，也调板子。调试比编写花的时间多得多。
