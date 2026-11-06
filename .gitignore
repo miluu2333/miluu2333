@@ -1,0 +1,32 @@
+# Keil MDK
+Objects/
+Listings/
+*.axf
+*.elf
+*.hex
+*.bin
+*.o
+*.obj
+*.d
+*.crf
+*.lnp
+*.dep
+*.lst
+*.map
+*.bak
+*.tra
+*.__i
+# AURIX ADS
+Debug/
+Release/
+# CMake
+build/
+CMakeFiles/
+# 编辑器
+.vscode/
+.idea/
+*.LEGION
+.legion/
+# 系统
+Thumbs.db
+desktop.ini
