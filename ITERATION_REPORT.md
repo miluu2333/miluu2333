@@ -27,3 +27,7 @@
 ## 未改动的内容
 
 所有 PID 参数、控制律、状态机逻辑、引脚分配、中断配置均未改动；`Library/`、`Start/` 等官方库文件保持原样。基于逐飞科技开源库的仓库保留原作者 LICENSE 与版权声明。
+
+## 后续：源码级迭代
+
+治理阶段之后进入代码本身的优化：迭代 6 起只改自研源码，每轮推进一项、改完复跑校验，运行时行为不变是硬约束，当前已到迭代 13。完整轮次、改动清单与行为影响见 [OPTIMIZATION_LOG.md](OPTIMIZATION_LOG.md)，待办见 [OPTIMIZATION_BACKLOG.md](OPTIMIZATION_BACKLOG.md)。
